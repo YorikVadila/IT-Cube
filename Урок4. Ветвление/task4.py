@@ -14,5 +14,6 @@ if a < 0 and c < 0:
 if b < 0 and c < 0:
     print(a)
 if a < 0 and b < 0 and c < 0:
-    print("Все числа отрицательные")    
-    
+    print("Все числа отрицательные")  
+else:
+    print(a + b + c)
